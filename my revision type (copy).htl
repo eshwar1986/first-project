@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>My revision.</title>
+</head>
+<body>
+<span class="red">welcome to my revision</span>
+
+<div id="header">
+<h1>How re u</h1>
+<p>Am fine</p>
+</div>
+<div>
+<h2>Plz find yhe web site</h2>
+<p>hope u like it</p>
+</div>
+<a href="http://youtube.com"></a>
+<h1>Practice session.</h1>
+<h2>On 4/march/2014.</h2>
+<p>This is my new revision.</p></br>
+<p>At 5:00 pm</p>
+<hr/>
+<br/>
+<img src="img.pmp"width"500"height"300"/>
+<ul>
+<li>html</li>
+<li>css</li>
+<li>java</li>
+</ul>
+<ol>
+<li>html</li>
+<li>css</li>
+<li>java</li>
+<li>ajax</li>
+</bdy>
+</html>
+
